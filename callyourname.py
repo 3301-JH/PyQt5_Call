@@ -53,3 +53,4 @@ class Ui_Form_homework(object):
         self.label_name.setText(_translate("Form_homework", "姓名："))
         self.label_path.setText(_translate("Form_homework", "名单路径："))
         self.pushButton_path.setText(_translate("Form_homework", "选择路径"))
+        
