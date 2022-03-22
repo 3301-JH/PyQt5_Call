@@ -7,7 +7,6 @@ from callyourname import Ui_Form_homework
 import xlrd
 import random
 
-
 class Call(QtWidgets.QWidget, Ui_Form_homework):
     def __init__(self):
         super(Call, self).__init__()
