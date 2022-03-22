@@ -1,0 +1,5 @@
+# pip install -r requirements.txt -i  https://pypi.doubanio.com/simple/  --trusted-host pypi.doubanio.com
+
+xlrd<=1.2.0
+pyqt5>=5.15.4
+pyqt5-tools>=5.15.4
