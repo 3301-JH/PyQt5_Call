@@ -60,7 +60,6 @@ class Call(QtWidgets.QWidget, Ui_Form_homework):
             self.item.setTextAlignment(Qt.AlignHCenter | Qt.AlignVCenter)
             self.tableWidget_call.setItem(0, i, self.item)
 
-
 if __name__ == '__main__':
     QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
     app = QtWidgets.QApplication(sys.argv)
