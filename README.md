@@ -3,7 +3,7 @@
 
 只需安装2个第三方库：PyQt5 、 xlrd（安装第三方库可以看requiremes.txt文件，在cmd中输入pip install -r requirements.txt -i  https://pypi.doubanio.com/simple/  --trusted-host pypi.doubanio.com）
 
-tips：xlrd库版本必须低于1.2.0（引文xlrd函数库1.2.0版本以上不支持xlsx文件的读取，以下支持，所以，如果你的Excel名单是xlsx格式的，务必检查xlrd库的版本）
+tips：xlrd库版本必须低于1.2.0（xlrd函数库1.2.0版本以上不支持xlsx文件的读取，以下支持，所以，如果你的Excel名单是xlsx格式的，务必检查xlrd库的版本）
 
 使用方法：
 
